@@ -1,28 +1,16 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://blog.burst.com/wp-content/uploads/2014/09/FS_LOGO.png" group-title="ESPORTE", FOX SPORTS 1
-http://iptvtendtudoubr.epizy.com/redir.php?acesso=1a598bf147d4cc97871b7fb5f7e7ebe3&usuario=f71b197ce63eb627ac7c3ade56337d53
-
-#EXTINF:-1 tvg-logo="https://futebolplayhd.com/imagens-futebol/b16e46dbbc37d4b4b6e1fe359bfa60b7.jpg" group-title="ESPORTE", FOX SPORTS 2
-http://iptvtendtudoubr.epizy.com/redir.php?acesso=d632a3452e64385173c73dfa17dce0da&usuario=f71b197ce63eb627ac7c3ade56337d53
-
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_5Kbn3GLbqdk/TJNXr0fEB3I/AAAAAAAAGUE/LiQle7KnhGs/s1600/sportv.9e628f7d1722ea80002cb5e3f5fea51a.jpg" group-title="ESPORTE", SPORTV
-http://iptvtendtudoubr.epizy.com/redir.php?acesso=bea99f2c35beab30bdbc493660e3fe11&usuario=f71b197ce63eb627ac7c3ade56337d53
-
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_5Kbn3GLbqdk/TJNXr0fEB3I/AAAAAAAAGUE/LiQle7KnhGs/s1600/sportv.9e628f7d1722ea80002cb5e3f5fea51a.jpg" group-title="ESPORTE", SPORTV 2
-http://iptvtendtudoubr.epizy.com/redir.php?acesso=7b6e5b7672c61f6f4d26596652091c18&usuario=f71b197ce63eb627ac7c3ade56337d53
-
-#EXTINF:-1 tvg-logo="https://cdn.oantagonista.net/uploads/2020/03/espn-brasil-logo-1024x591.jpg" group-title="ESPORTE", ESPN BRASIL
-http://iptvtendtudoubr.epizy.com/redir.php?acesso=01887e177c51dab0a75d4bd2c5732d85&usuario=f71b197ce63eb627ac7c3ade56337d53
-
-#EXTINF:-1 tvg-logo="http://vcfaz.tv/img/logonovo/combate.jpg" group-title="ESPORTE", COMBATE
-http://iptvtendtudoubr.epizy.com/redir.php?acesso=a092c48e9fa9ecf324b2d3a23d61d891&usuario=f71b197ce63eb627ac7c3ade56337d53
-
-#EXTINF:-1 tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c434f2d31e6b.png" group-title="ESPORTE", SBT
-http://iptvtendtudoubr.epizy.com/redir.php?acesso=dd195b30217e8ec0178e7df6bc874a54&usuario=f71b197ce63eb627ac7c3ade56337d53
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/--3mE5CRL5Fg/Wwq9jpWRplI/AAAAAAAAAJY/yLdYdLid6-wZk6TOB28Ql5KLMwUu3q8vQCPcBGAYYCw/s1600/premeire%2Bcanal.jpg" group-title="ESPORTE", PREMIERE CLUBES
-http://iptvtendtudoubr.epizy.com/redir.php?acesso=e48cb6adc297201444d040ff8ef712eb&usuario=f71b197ce63eb627ac7c3ade56337d53
-
-#EXTINF:-1 tvg-logo="https://portal.comunique-se.com.br/wp-content/uploads/2019/11/REDETV-OFICIAL-3D-1320x743.png" group-title="ESPORTE", REDE TV
-http://iptvtendtudoubr.epizy.com/redir.php?acesso=7d6a39825a846a2844845c604fc1a796&usuario=f71b197ce63eb627ac7c3ade56337d53
+#EXTM3U#EXTINF:-1 tvg-id="BIG BROTHER BRASIL" tvg-name="PREMIERE CLUBES HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Esportes",BIG BROTHER BRASIL HD
+https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/bbb24hras_1000/index.m3u8
+#EXTINF:-1 tvg-id="RECORD SP HD" tvg-name="RECORD SP HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="RECORD SP HD
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="RECORD RJ HD" tvg-name="RECORD RJ HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="RECORD RJ HD
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8
+#EXTINF:-1 tvg-id="GLOBO HD" tvg-name="GLOBO HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="GLOBO HD
+https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
+#EXTINF:-1 tvg-id="REDETV SD" tvg-name="REDETV SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png" group-title="REDETV SD
+https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
+#EXTINF:-1 tvg-id="SBT SD" tvg-name="SBT SD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="SBT SD
+https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/chunklist_w1540816341.m3u8
+#EXTINF:-1 tvg-id="TV DIARIO SD" tvg-name="TV DIARIO SD" tvg-logo="https://i.pinimg.com/originals/6e/c3/a3/6ec3a3727705163c9ea59099c7062695.png" group-title="TV DIARIO SD
+https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZfbTs2DCjs-ZIHZww-B7Ibw)/dm/3/x7txn7q/s/live-4.m3u8
+#EXTINF:-1 tvg-id="GLOBO HD" tvg-name="GLOBO HD" tvg-logo="https://i.pinimg.com/originals/6e/c3/a3/6ec3a3727705163c9ea59099c7062695.png" group-title="ALL SPORTS TV
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w272599679.m3u8
